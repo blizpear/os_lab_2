@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/blizpear/Documents/OS/lab2_20/File.h
+string
+-
+iostream
+-
+filesystem
+-
+dirent.h
+-
+sys/stat.h
+-
+string.h
+-
+fstream
+-
+pwd.h
+-
+sys/types.h
+-
+iomanip
+-
+cstdlib
+-
+stdio.h
+/home/blizpear/Documents/OS/lab2_20/stdio.h
+
+/home/blizpear/Documents/OS/lab2_20/main.cpp
+iostream
+-
+vector
+-
+cstring
+-
+File.h
+/home/blizpear/Documents/OS/lab2_20/File.h
+
