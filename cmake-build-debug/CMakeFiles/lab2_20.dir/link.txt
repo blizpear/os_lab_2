@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/lab2_20.dir/main.cpp.o CMakeFiles/lab2_20.dir/File.cpp.o  -o lab2_20 
